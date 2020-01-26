@@ -1,0 +1,51 @@
+# ENGLISH-signup to amazon
+* ENGLISH-Click to "NewAccount" object
+* ENGLISH-Click to "createAccount" object
+* ENGLISH-Enter "Name" to "name" input object
+* ENGLISH-Enter "name@email.com" to "email" input object
+* ENGLISH-Enter "a1a2a3" to "password" input object
+* ENGLISH-Enter "a1a2a3" to "repassword" input object
+* ENGLISH-Click to "createAccountVerify" object
+
+# ENGLISH-login to amazon
+* ENGLISH-Click to "NewAccount" object
+* ENGLISH-Enter "volkantolu@gmail.com" to "email" input object
+* ENGLISH-Click to "createAccountVerify" object
+* ENGLISH-Enter "a1a2a3" to "password" input object
+* ENGLISH-Click to "login" object
+
+# ENGLISH-Select category from menu
+* ENGLISH-Click to "Menu" object
+* ENGLISH-Enter "HeadPhones" to "SearchBar" input object
+* ENGLISH-Click to "SearchButton" object
+* ENGLISH-Click to "ANC" object
+* ENGLISH-Click to "FirstProduct" object
+* ENGLISH-Click to "AddToBasket" object
+* ENGLISH-Click to "NoThanks" object
+* ENGLISH-Click to "ProceedToCheckout" object
+
+# GERMAN-signup to amazon
+* GERMAN-Click to "NewAccount" object
+* GERMAN-Click to "createAccount" object
+* GERMAN-Enter "Name" to "name" input object
+* GERMAN-Enter "name@email.com" to "email" input object
+* GERMAN-Enter "a1a2a3" to "password" input object
+* GERMAN-Enter "a1a2a3" to "repassword" input object
+* GERMAN-Click to "createAccountVerify" object
+
+# GERMAN-login to amazon
+* GERMAN-Click to "NewAccount" object
+* GERMAN-Enter "volkantolu@gmail.com" to "email" input object
+* GERMAN-Click to "createAccountVerify" object
+* GERMAN-Enter "a1a2a3" to "password" input object
+* GERMAN-Click to "login" object
+
+# GERMAN-Select category from menu
+* GERMAN-Click to "Menu" object
+* GERMAN-Enter "Kopfhörer" to "SearchBar" input object
+* GERMAN-Click to "SearchButton" object
+* GERMAN-Click to "ANC" object
+* GERMAN-Click to "FirstProduct" object
+* GERMAN-Click to "AddToBasket" object
+* GERMAN-Click to "NoThanks" object
+* GERMAN-Click to "ProceedToCheckout" object
